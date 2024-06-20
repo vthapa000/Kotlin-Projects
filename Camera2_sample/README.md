@@ -5,6 +5,7 @@
 
 **2. Object detection feature which is powered by a very light -weight SSD MobileNet v1 model with labels of 90 objects.**
 
-Note: Pictures captured will be stored in DCIM folder.
 
-Tested on Pixel 6a (Android 14)
+**Tested on Android 14**
+
+Note: Pictures captured will be stored in DCIM folder. 
